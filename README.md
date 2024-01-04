@@ -6,7 +6,7 @@
 
 2. Затем клонируйте репозиторий и перейдите в каталог проекта:
 
-git clone https://github.com/gra4evp/karaoke_bot.git
+git clone https://github.com/ThugKuk/karaoke_bot.git
 cd karaoke_bot
 
 3. Теперь используйте Poetry, чтобы установить зависимости:
